@@ -326,3 +326,9 @@ footer p {
 		margin-bottom: 50px;
 	}
 }
+
+@media (max-width: 450px) {
+	nav .content .gambar img {
+		width: 350px;
+	}
+}
